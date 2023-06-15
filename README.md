@@ -1,4 +1,4 @@
-<h1 align="center"> Organização - Semana Aratu II </h1>
+<h1 align="center"> Organização - Semana Aratu III </h1>
 
 A ideia desse evento é compartilhar conhecimento. Caso queira palestrar sobre algum tema, ou conheça alguém que queira, basta responder o formulário e aguardar a confirmação de sua palestra, em alguns dias os organizadores do evento entrarão em contato pelos meios de comunicação que foram disponibilizados durante o preenchimento do formulário.
 
